@@ -7,4 +7,4 @@ nf_check = script-name=nf_check, title="Netflix", content="请刷新", update-in
 
 [Script]
 #奈飞检测
-nf_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/Netflix.js
+nf_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/js/js_normal/Netflix.js

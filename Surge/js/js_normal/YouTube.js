@@ -18,16 +18,16 @@
 const BASE_URL = 'https://www.youtube.com/premium'
 
 const DEFAULT_OPTIONS = {
-  title: '你是准备看Ytb吗？我的宝！',
-  availableContent: '宝~ 在#REGION_CODE#可以用Premium的喔！',
+  title: 'Ready to check YouTube.',
+  availableContent: 'You can use Premium in #REGION_CODE#.',
   availableIcon: 'checkmark.seal',
   availableIconColor: '#16A951',
   availableStyle: 'good',
-  notAvailableContent: '哇！钱飞走咯！Premium不能用喔！',
+  notAvailableContent: 'You can't use Premium here!',
   notAvailableIcon: 'exclamationmark.triangle',
   notAvailableIconColor: '#DC143C',
   notAvailableStyle: 'alert',
-  errorContent: '你快刷新我的喔！网络不怎么好喔！',
+  errorContent: 'Please refresh me!',
   errorIcon: 'eye.slash',
   errorIconColor: '#DC143C',
   errorStyle: 'error',

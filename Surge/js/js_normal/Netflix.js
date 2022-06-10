@@ -6,38 +6,38 @@ const AREA_TEST_FILM_ID = 80018499
 
 ;(async () => {
   let result = {
-    title: "你是准备看NFLX吗？我的宝！",
+    title: "Ready to check Netflix!",
     icon: "wifi.slash",
 	  'icon-color':"#000000",
-    content: "你快刷新我的喔！网络不怎么好喔！",
+    content: "Please refresh me!",
   }
   await test(FILM_ID)
     .then((code) => {
       if (code === 'Not Found') {
         return test(AREA_TEST_FILM_ID)
       }
-      result['title'] = "你是准备看NFLX吗？我的宝！"
+      result['title'] = "Ready to check Netflix!"
       result['icon'] = "checkmark.seal"
 	    result['icon-color'] = '#16A951'
-      result['content'] = "宝~ 在" + code.toUpperCase() + "可以观看全部的喔！"
+      result['content'] = "You can watch completed Netfflix in" + code.toUpperCase() + "."
       return Promise.reject('BreakSignal')
     })
     .then((code) => {
       if (code === 'Not Found') {
         return Promise.reject('Not Available')
       }
-      result['title'] = "你是准备看NFLX吗？我的宝！"
+      result['title'] = "Ready to check Netflix!"
       result['icon'] = "exclamationmark.triangle"
 	    result['icon-color'] = "#FFD700"
-      result['content'] = "但是你在" + code.toUpperCase() + "只能看自制的喔！"
+      result['content'] = "You can watch a part of Netfflix in" + code.toUpperCase() + "."
       return Promise.reject('BreakSignal')
     })
     .catch((error) => {
       if (error === 'Not Available') {
-        result['title'] = "你是准备看NFLX吗？我的宝！"
+        result['title'] = "Ready to check Netflix!"
         result['icon'] = "eye.slash"
 	      result['icon-color'] = "#DC143C"
-		result['content'] = "叼毛！这里不能看的喔！快去搬砖喔！"
+		result['content'] = "you can't watch Netflix here!"
         return
       }
     })

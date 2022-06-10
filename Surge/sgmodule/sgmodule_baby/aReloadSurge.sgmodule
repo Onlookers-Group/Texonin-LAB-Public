@@ -4,4 +4,4 @@
 [Panel]
 reload = title=不开心就刷新一下我的我！,content=宝～ 今天也要开开心心的喔！,style=info,script-name=reload,update-interval=-1
 [Script]
-reload=script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/reload.js,type=generic
+reload=script-path=https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/js/js_baby/zReload.js,type=generic
