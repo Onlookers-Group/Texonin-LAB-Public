@@ -15,6 +15,13 @@
 7. 所有直接或间接使用本项目的个人和组织，应24小时内完成学习和研究，并及时删除本项目中的所有内容。如对本项目的功能有需求，应自行开发相关功能。
 8. 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
+## 实用性工具
+
+| 实用性工具 | 链接       |
+| -------- | ----------- | 
+| IP 信息查询 | https://www.ipip.net/ip.html |
+| 终端多 IP 查询 | https://ip.skk.moe |
+
 ## Surge
 
 ### General
@@ -60,6 +67,7 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 | YouTube | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Youtube.sgmodule    | 
 | 三合一（YouTube/Netflix/Disney+） | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_3t1.sgmodule    | 
 | 四合一（YouTube/Netflix/Disney+/DAZN）| https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_4t1.sgmodule    | 
+
 功能性：
 | 功能模块 | Panel       |
 | -------- | ----------- |
