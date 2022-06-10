@@ -1,0 +1,8 @@
+#!name=Dazn
+#!desc=要开心喔！我的宝！
+
+[Panel]
+dazn_check = script-name=dazn_check, title="dazn", content="请刷新", update-interval=86400
+
+[Script]
+dazn_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/Dazn.js
