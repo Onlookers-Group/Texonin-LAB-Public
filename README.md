@@ -17,7 +17,7 @@
 
 ## Surge
 
-#### General
+### General
 ```ini
 [General]
 loglevel = notify
@@ -40,31 +40,43 @@ exclude-simple-hostnames = true
 ipv6 = true
 ```
 
-#### 分流规则
+### 分流规则
 **我们并不生产规则，我们只是开源规则的搬运工。**
 
-Blackmatrix
+Blackmatrix：
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
 
-DivineEngine
+DivineEngine：
 https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
-#### Panel 面板
+
+### Panel 面板
+
+流媒体检测：
+| 流媒体检测 | Panel       |
+| -------- | ----------- | 
+| DAZN | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Dazn.sgmodule   | 
+| Disney+ | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Disneyplus.sgmodule | 
+| Netflix | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Netflix.sgmodule    | 
+| YouTube | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Youtube.sgmodule    | 
+| 三合一（YouTube/Netflix/Disney+） | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_3t1.sgmodule    | 
+| 四合一（YouTube/Netflix/Disney+/DAZN）| https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_4t1.sgmodule    | 
+
 
 
 ## Quantumult(X)
 
 
 
-#### Texon 图标
+### Texon 图标
 |图标|img-url 链接|
 |小恐龙|https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/icon/Texon.png
 |小鳄鱼|https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/icon/texonLAB.png|
 
 
-#### 解析器
+### 解析器
 
 
 
 
 
-# 感谢
+## 感谢
