@@ -1,5 +1,5 @@
-#!name=reload
-#!desc=开心喔！
+#!name=ReloadSurge.
+#!desc=Enjoy your day!
 
 [Panel]
 reload = title=不开心就刷新一下我的我！,content=宝～ 今天也要开开心心的喔！,style=info,script-name=reload,update-interval=-1

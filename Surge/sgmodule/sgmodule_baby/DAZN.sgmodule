@@ -1,5 +1,5 @@
-#!name=Dazn
-#!desc=要开心喔！我的宝！
+#!name=CheckDAZN.
+#!desc=Enjoy your day!
 
 [Panel]
 dazn_check = script-name=dazn_check, title="dazn", content="请刷新", update-interval=86400

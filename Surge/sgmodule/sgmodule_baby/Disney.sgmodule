@@ -1,5 +1,5 @@
-#!name=Disneyplus
-#!desc=要开心喔！我的宝！
+#!name=CheckDisney.
+#!desc=Enjoy your day!
 
 [Panel]
 disney_check = script-name=disney_check,title=Disney+ 解锁检测,style=alert,content=请刷新面板,update-interval=86400

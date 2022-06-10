@@ -1,5 +1,5 @@
 #!name=ytb/nflx/d+
-#!desc=爱你喔我的宝~
+#!desc=Enjoy your day!
 
 [Panel]
 ytb_check = script-name=ytb_check, title="Youtube", content="请刷新", update-interval=86400
