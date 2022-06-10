@@ -60,8 +60,11 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 | YouTube | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/Youtube.sgmodule    | 
 | 三合一（YouTube/Netflix/Disney+） | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_3t1.sgmodule    | 
 | 四合一（YouTube/Netflix/Disney+/DAZN）| https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/zStreaming_4t1.sgmodule    | 
-
-
+功能性：
+| 功能模块 | Panel       |
+| -------- | ----------- |
+| 配置重载 | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/reload.sgmodule |
+| 网络连通性检查 [Makaveli](https://github.com/DeepPlaying/Surge/blob/main/panel/panels.sgmodle) | https://rxxxxxxxxxx |
 
 ## Quantumult(X)
 
