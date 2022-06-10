@@ -50,11 +50,14 @@ ipv6 = true
 ### 分流规则
 **我们并不生产规则，我们只是开源规则的搬运工。**
 
-Blackmatrix：
+Blackmatrix:
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge
 
-DivineEngine：
+DivineEngine:
 https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
+
+Sukka:
+https://github.com/SukkaW/Surge
 
 ### Panel 面板
 
@@ -89,7 +92,7 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 
 
 ### 解析器
-
+https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
 
 
 
