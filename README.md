@@ -62,7 +62,8 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 | 流媒体检测 | 普通版       |骚话版       |
 | -------- | ----------- | ---------- | 
 | DAZN | [DAZN 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/DAZN.sgmodule) | [DAZN 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/DAZN.sgmodule) | 
-| Disney+ | [Disney+ 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Disney.sgmodule) | Disney+ 骚话 | 
+| Disney+ | [Disney+ 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Disney.sgmodule) | [Disney+ 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Disney.sgmodule
+) | 
 | Netflix | [Netflix 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Netfilx.sgmodule) | [Netflix 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Netfilx.sgmodule) | 
 | YouTube | [YouTube 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Youtube.sgmodule) | [YouTube 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Youtube.sgmodule) | 
 | 三合一（YouTube/Netflix/Disney+） | [三合一普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming3t1.sgmodule) | [三合一骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming3t1.sgmodule) | 
