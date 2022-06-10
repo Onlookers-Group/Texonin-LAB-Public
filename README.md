@@ -72,8 +72,11 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 
 ### Texon 图标
 |图标|img-url 链接|
-|小恐龙|https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/icon/Texon.png
-|小鳄鱼|https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/icon/texonLAB.png|
+| -------- | ----------- | 
+|小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Little_crocodile.png|
+|戴眼镜小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Crocodile_with_glasses.png|
+|小恐龙|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Little_dinosaur.png|
+
 
 
 ### 解析器
