@@ -76,12 +76,10 @@ https://github.com/SukkaW/Surge
 | 功能模块 | Panel       |
 | -------- | ----------- |
 | 配置重载 | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/reload.sgmodule |
-| 网络连通性检查 [Makaveli](https://github.com/DeepPlaying/Surge/blob/main/panel/panels.sgmodle) | https://rxxxxxxxxxx |
+| 网络连通性检查 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/Connectivity_Test |
+| 网络综合信息 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/NET_INFO |
 
 ## Quantumult(X)
-
-
-
 ### Texon 图标
 |图标|img-url 链接|
 | -------- | ----------- | 
