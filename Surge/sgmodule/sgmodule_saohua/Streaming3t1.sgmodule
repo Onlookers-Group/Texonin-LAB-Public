@@ -1,0 +1,12 @@
+#!name=ytb/nflx/d+
+#!desc=爱你喔我的宝~
+
+[Panel]
+ytb_check = script-name=ytb_check, title="Youtube", content="请刷新", update-interval=86400
+nflx_check = script-name=nflx_check, title="Netflix", content="请刷新", update-interval=86400
+disney_check = script-name=disney_check,title="Disney+",style=alert,content="请刷新",update-interval=86400
+
+[Script]
+ytb_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/Youtube.js
+nflx_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/Netflix.js
+disney_check = type=generic,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/Disneyplus.js
