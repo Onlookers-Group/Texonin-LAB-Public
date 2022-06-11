@@ -232,5 +232,10 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter
 
 ### Rule 分流规则
 
+Blackmatrix:
+https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
+
+DivineEngine:
+https://github.com/DivineEngine/Profiles/tree/master/Clash/RuleSet
 
 ## 感谢
