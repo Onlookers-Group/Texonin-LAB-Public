@@ -90,7 +90,7 @@ https://github.com/SukkaW/Surge
 ### GEOIP 数据库
 **注意自行甄别是否包含 IPv6 地址**
 
-MaxMind GeoLite Mirror:
+MaxMind GeoLite Mirror (Sukka):
 https://geolite.clash.dev
 
 alecthw:
