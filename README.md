@@ -105,6 +105,9 @@ https://github.com/17mon/china_ip_list
 Hackl0us:
 https://github.com/Hackl0us/GeoIP2-CN
 
+Loyalsoldier:
+https://github.com/Loyalsoldier/geoip
+
 ### Panel 面板
 
 流媒体检测：
