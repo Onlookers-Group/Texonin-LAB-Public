@@ -124,6 +124,14 @@ https://github.com/Loyalsoldier/geoip
 | YouTube/Netflix/Disney+ | [YouTube/Netflix/Disney+](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming3t1.sgmodule) | [YouTube/Netflix/Disney+ 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming3t1.sgmodule) | 
 | YouTube/Netflix/Disney+/DAZN | [YouTube/Netflix/Disney+/DAZN](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming4t1.sgmodule) | [YouTube/Netflix/Disney+/DAZN 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming4t1.sgmodule) | 
 
+TikTok 解锁：
+| 地区 | 链接       |
+| -------- | ----------- |
+| 美国 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/United%20States.sgmodule |
+| 韩国 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/Korea.sgmodule |
+| 日本 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/Japan.sgmodule |
+| 台湾 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/Taiwan.sgmodule |
+
 
 功能性：
 | 功能模块 | Panel       |
