@@ -2,7 +2,7 @@
 #!desc=Yet Another Redirect Module
 
 [Rule]
-DOMAIN-SET,https://dbl.oisd.nl/nsfw/, REJECT
+DOMAIN-SET,https://dbl.oisd.nl/nsfw/,REJECT
 DOMAIN-SUFFIX,fast.com,REJECT
 DOMAIN-SUFFIX,ooklaserver.net,REJECT
 DOMAIN-SUFFIX,speed.cloudflare.com,REJECT
