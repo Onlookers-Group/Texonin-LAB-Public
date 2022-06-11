@@ -19,7 +19,7 @@ const AREA_TEST_FILM_ID = 80018499
       result['title'] = "Ready to check Netflix!"
       result['icon'] = "checkmark.seal"
 	    result['icon-color'] = '#16A951'
-      result['content'] = "You can watch completed Netfflix in" + code.toUpperCase() + "."
+      result['content'] = "You can watch all Netfflix in " + code.toUpperCase() + "."
       return Promise.reject('BreakSignal')
     })
     .then((code) => {
@@ -29,7 +29,7 @@ const AREA_TEST_FILM_ID = 80018499
       result['title'] = "Ready to check Netflix!"
       result['icon'] = "exclamationmark.triangle"
 	    result['icon-color'] = "#FFD700"
-      result['content'] = "You can watch a part of Netfflix in" + code.toUpperCase() + "."
+      result['content'] = "You can watch little Netfflix in " + code.toUpperCase() + "."
       return Promise.reject('BreakSignal')
     })
     .catch((error) => {
