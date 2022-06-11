@@ -90,6 +90,9 @@ https://github.com/SukkaW/Surge
 ### GEOIP 数据库
 **注意自行甄别是否包含 IPv6 地址**
 
+MaxMind GeoLite Mirror:
+https://geolite.clash.dev
+
 alecthw:
 https://github.com/alecthw/mmdb_china_ip_list
 
