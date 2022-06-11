@@ -23,7 +23,7 @@ const DEFAULT_OPTIONS = {
   availableIcon: 'checkmark.seal',
   availableIconColor: '#16A951',
   availableStyle: 'good',
-  notAvailableContent: 'You can't use Premium here!',
+  notAvailableContent: "You can't use Premium here!",
   notAvailableIcon: 'exclamationmark.triangle',
   notAvailableIconColor: '#DC143C',
   notAvailableStyle: 'alert',
