@@ -19,6 +19,8 @@
 
 | 实用性工具 | 链接       |
 | -------- | ----------- | 
+| 官方订阅转换 | https://sub.texon.io |
+| 官方 GitHub 反代 | https://raw.txn3.dev |
 | IP 信息查询 | https://www.ipip.net/ip.html |
 | 终端多 IP 查询 | https://ip.skk.moe |
 
@@ -78,6 +80,21 @@ https://github.com/SukkaW/Surge
 | 配置重载 | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/reload.sgmodule |
 | 网络连通性检查 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/Connectivity_Test |
 | 网络综合信息 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/NET_INFO |
+
+机场信息：
+```ini
+#!name=Texon's LAB
+#!desc=Informations for Texonin
+
+[Panel]
+#Airport
+Sub_info = script-name=Sub_info,update-interval=43200
+
+
+[Script]
+#Airport
+Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/js/js-Airport/enAirport.js,script-update-interval=0,argument=reset_day=**&url=[encode后的订阅链接]
+```
 
 ## Quantumult(X)
 ### Texon 图标
