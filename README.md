@@ -23,6 +23,28 @@
 | 官方 GitHub 反代 | https://raw.txn3.dev |
 | IP 信息查询 | https://www.ipip.net/ip.html |
 | 终端多 IP 查询 | https://ip.skk.moe |
+
+## GEOIP 数据库
+**注意自行甄别是否包含 IPv6 地址**
+
+MaxMind GeoLite Mirror (Sukka):
+https://geolite.clash.dev
+
+alecthw:
+https://github.com/alecthw/mmdb_china_ip_list
+
+Misaka Network, Inc:
+https://github.com/misakaio/chnroutes2
+
+IPIP.net:
+https://github.com/17mon/china_ip_list
+
+Hackl0us:
+https://github.com/Hackl0us/GeoIP2-CN
+
+Loyalsoldier:
+https://github.com/Loyalsoldier/geoip
+
 ## Sub-Store
 | 名称 | 链接       |
 | -------- | ----------- | 
@@ -91,26 +113,7 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 Sukka:
 https://github.com/SukkaW/Surge
 
-### GEOIP 数据库
-**注意自行甄别是否包含 IPv6 地址**
 
-MaxMind GeoLite Mirror (Sukka):
-https://geolite.clash.dev
-
-alecthw:
-https://github.com/alecthw/mmdb_china_ip_list
-
-Misaka Network, Inc:
-https://github.com/misakaio/chnroutes2
-
-IPIP.net:
-https://github.com/17mon/china_ip_list
-
-Hackl0us:
-https://github.com/Hackl0us/GeoIP2-CN
-
-Loyalsoldier:
-https://github.com/Loyalsoldier/geoip
 
 ### Panel 面板
 
@@ -156,6 +159,20 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 ```
 
 ## Quantumult(X)
+
+### 解析器
+https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
+
+### 分流规则
+**我们并不生产规则，我们只是开源规则的搬运工。**
+
+Blackmatrix:
+https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX
+
+DivineEngine:
+https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter
+
+
 ### Texon 图标
 |图标|img-url 链接|
 | -------- | ----------- | 
@@ -165,8 +182,6 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 
 
-### 解析器
-https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
 
 
 
