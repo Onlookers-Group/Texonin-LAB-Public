@@ -123,7 +123,7 @@ https://github.com/Loyalsoldier/geoip
 
 功能性：
 | 功能模块 | Panel       |
-| -------- |----------- |
+| -------- | ----------- |
 | 配置重载 | https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/sgmodule/reload.sgmodule |
 | 网络连通性检查 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/Connectivity_Test |
 | 网络综合信息 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/NET_INFO |
