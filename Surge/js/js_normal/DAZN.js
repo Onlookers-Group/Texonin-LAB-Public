@@ -10,7 +10,7 @@ const DEFAULT_OPTIONS = {
     comingIconColor: '#FFD700',
     comingStyle: 'info',
     notAvailabletitle: 'Ready to check DAZN.',
-    notAvailableContent: 'You can't watch DAZN!',
+    notAvailableContent: "You can't watch DAZN!",
     notAvailableIcon: 'eye.slash',
     notAvailableIconColor: '#DC143C',
     notAvailableStyle: 'alert',
