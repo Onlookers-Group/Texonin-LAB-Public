@@ -191,7 +191,7 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 #### TikTok 解锁：
 
-| 地区 | 链接                                                         |
+| 地区 | 链接                                                           |
 | ---- | ------------------------------------------------------------ |
 | 美国 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/United%20States.sgmodule |
 | 韩国 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/Korea.sgmodule |
