@@ -87,6 +87,21 @@ https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset
 Sukka:
 https://github.com/SukkaW/Surge
 
+### GEOIP 数据库
+**注意自行甄别是否包含 IPv6 地址**
+
+alecthw:
+https://github.com/alecthw/mmdb_china_ip_list
+
+Misaka Network, Inc:
+https://github.com/misakaio/chnroutes2
+
+IPIP.net:
+https://github.com/17mon/china_ip_list
+
+Hackl0us:
+https://github.com/Hackl0us/GeoIP2-CN
+
 ### Panel 面板
 
 流媒体检测：
