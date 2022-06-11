@@ -38,23 +38,41 @@
 ```ini
 [General]
 loglevel = notify
-
-dns-server = 119.29.29.29, 223.5.5.5, 223.6.6.6
-skip-proxy = localhost, *.local, passenger.t3go.cn, e.crashlytics.com, captive.apple.com, app.yinxiang.com, injections.adguard.org, local.adguard.org, cable.auth.com, yunbusiness.ccb.com, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.1/32, 169.254.0.0/16, 172.16.0.0/12, 192.168.0.0/16, 224.0.0.0/4, 240.0.0.0/4, ::1/128, fc00::/7, fd00::/8, fe80::/10, ff00::/8, 2001::/32, 2001:db8::/32, 2002::/16, ::ffff:0:0:0:0/1, ::ffff:128:0:0:0/1
-tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
-tun-included-routes = 192.168.1.12/32
-
-always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
-hijack-dns = *:53
-
 internet-test-url = http://g.alicdn.com/generate_204
 proxy-test-url = http://www.gstatic.com/generate_204
 proxy-test-udp = apple.com@1.1.1.1
 test-timeout = 5
-
-allow-wifi-access = true
 exclude-simple-hostnames = true
+show-error-page-for-reject = true
 ipv6 = true
+
+skip-proxy = localhost, *.local, passenger.t3go.cn, e.crashlytics.com, captive.apple.com, app.yinxiang.com, injections.adguard.org, local.adguard.org, cable.auth.com, yunbusiness.ccb.com, 10.0.0.0/8, 100.64.0.0/10, 127.0.0.1/32, 169.254.0.0/16, 172.16.0.0/12, 192.168.0.0/16, 224.0.0.0/4, 240.0.0.0/4, ::1/128, fc00::/7, fd00::/8, fe80::/10, ff00::/8, 2001::/32, 2001:db8::/32, 2002::/16, ::ffff:0:0:0:0/1, ::ffff:128:0:0:0/1
+always-real-ip = *.lan, cable.auth.com, *.msftconnecttest.com, *.msftncsi.com, *.*.*.srv.nintendo.net, *.*.stun.playstation.net, xbox.*.*.microsoft.com, *.*.xboxlive.com, stun.*, localhost.ptlogin2.qq.com, *.logon.battlenet.com.cn, *.logon.battle.net, *.blzstatic.cn, music.163.com, *.music.163.com, *.126.net, musicapi.taihe.com, music.taihe.com, songsearch.kugou.com, trackercdn.kugou.com, *.kuwo.cn, api-jooxtt.sanook.com, api.joox.com, joox.com, y.qq.com, *.y.qq.com, streamoc.music.tc.qq.com, mobileoc.music.tc.qq.com, isure.stream.qqmusic.qq.com, dl.stream.qqmusic.qq.com, aqqmusic.tc.qq.com, amobile.music.tc.qq.com, *.xiami.com, *.music.migu.cn, music.migu.cn, proxy.golang.org, *.mcdn.bilivideo.cn, *.cmpassport.com, id6.me, open.e.189.cn, mdn.open.wo.cn, auth.wosms.cn, *.jegotrip.com.cn, *.icitymobile.mobi, *.pingan.com.cn, *.cmbchina.com, pool.ntp.org, *.pool.ntp.org, ntp.*.com, time.*.com, ntp?.*.com, time?.*.com, time.*.gov, time.*.edu.cn, *.ntp.org.cn, PDC._msDCS.*.*, DC._msDCS.*.*, GC._msDCS.*.*
+//tun-excluded-routes = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12
+//tun-included-routes = 192.168.1.12/32
+
+always-real-ip = *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
+
+# DNS (如无必要不建议使用 DNS over HTTPS)
+hijack-dns = *:53
+dns-server = 119.29.29.29, 223.5.5.5, 223.6.6.6
+//doh-follow-outbound-mode = false
+//doh-format = wireformat
+//doh-server = https://dns.tuna.tsinghua.edu.cn:8443/dns-query
+
+
+
+# iOS
+# >混合网络
+all-hybrid = true 
+allow-wifi-access = true
+# >允许热点访问
+allow-hotspot-access = true
+wifi-assist = false
+include-all-networks = false
+include-local-networks = false
+http-listen = 0.0.0.0
+
 ```
 
 ### 分流规则
@@ -78,8 +96,8 @@ https://github.com/SukkaW/Surge
 | Disney+ | [Disney+ 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Disney.sgmodule) | [Disney+ 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Disney.sgmodule) | 
 | Netflix | [Netflix 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Netfilx.sgmodule) | [Netflix 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Netfilx.sgmodule) | 
 | YouTube | [YouTube 普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/Youtube.sgmodule) | [YouTube 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/Youtube.sgmodule) | 
-| 三合一（YouTube/Netflix/Disney+） | [三合一普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming3t1.sgmodule) | [三合一骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming3t1.sgmodule) | 
-| 四合一（YouTube/Netflix/Disney+/DAZN）| [四合一普通](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming4t1.sgmodule) | [四合一骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming4t1.sgmodule) | 
+| YouTube/Netflix/Disney+ | [YouTube/Netflix/Disney+](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming3t1.sgmodule) | [YouTube/Netflix/Disney+ 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming3t1.sgmodule) | 
+| YouTube/Netflix/Disney+/DAZN | [YouTube/Netflix/Disney+/DAZN](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/zStreaming4t1.sgmodule) | [YouTube/Netflix/Disney+/DAZN 骚话](https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/zStreaming4t1.sgmodule) | 
 
 
 功能性：
