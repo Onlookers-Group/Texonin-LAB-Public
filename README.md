@@ -23,6 +23,14 @@
 | 官方 GitHub 反代 | https://raw.txn3.dev |
 | IP 信息查询 | https://www.ipip.net/ip.html |
 | 终端多 IP 查询 | https://ip.skk.moe |
+## Sub-Store
+| 实用性工具 | 链接       |
+| -------- | ----------- | 
+| Surge | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule |
+| Loon | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin |
+| Quantumult X | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet |
+| Stash | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Stash.stoverride |
+| Sub-Store 教程 | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
 
 ## Surge
 
