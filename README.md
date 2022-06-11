@@ -24,29 +24,16 @@
 | IP 信息查询 | https://www.ipip.net/ip.html |
 | 终端多 IP 查询 | https://ip.skk.moe |
 ## Sub-Store
-| 代理软件 | 安装链接       |
+| 名称 | 链接       |
 | -------- | ----------- | 
 | Surge | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule |
 | Loon | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Loon.plugin |
 | Quantumult X | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/QX.snippet |
 | Stash | https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Stash.stoverride |
-
-| 脚本名称 | 链接       |
-| -------- | ----------- |
 | Sub-Store 教程 | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
 | 机场重命名脚本 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/js_for_SubStore/rename.js |
+| 开启 Texon Trojan 指纹验证 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/js_for_SubStore/Fingerprint_for_Texon.js |
 
-开启 Trojan 指纹验证
-```ini
-function operator(proxies) {
-  proxies.map(res => {
-    if (res.type == 'trojan') {
-      res.tfo = `${res.tfo||false}, server-cert-fingerprint-sha256= db dc c2 2d 3a 60 a7 92 92 84 4c 72 6e 21 0e 30 49 d5 e2 58 ad 08 67 20 83 79 f6 f6 52 a9 f0 16`;
-    }
-  })
-  return proxies
-}
-```
 
 
 ## Surge
