@@ -23,6 +23,7 @@
 | 官方 GitHub 反代 | https://raw.txn3.dev |
 | IP 信息查询 | https://www.ipip.net/ip.html |
 | 终端多 IP 查询 | https://ip.skk.moe |
+| 网易 IP 查询 | https://nstool.netease.com |
 
 ## GEOIP 数据库
 **注意自行甄别是否包含 IPv6 地址**
