@@ -1,5 +1,5 @@
-#!name=World Peace
-#!desc=Yet Another Redirect Module
+#!name=World Peace.
+#!desc=Make the world a greener place!
 
 [Rule]
 DOMAIN-SET,https://dbl.oisd.nl/nsfw/,REJECT
