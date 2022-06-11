@@ -147,9 +147,9 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 ### Texon 图标
 |图标|img-url 链接|
 | -------- | ----------- | 
-|小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Little_crocodile.png|
-|戴眼镜小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Crocodile_with_glasses.png|
-|小恐龙|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Icon/Little_dinosaur.png|
+|小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Quantumult(X)/Icon/Little_crocodile.png|
+|戴眼镜小鳄鱼|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Quantumult(X)/Icon/Crocodile_with_glasses.png|
+|小恐龙|https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Quantumult(X)/Icon/Little_dinosaur.png|
 
 
 
