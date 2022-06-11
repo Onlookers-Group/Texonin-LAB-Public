@@ -34,8 +34,7 @@
 | 脚本名称 | 链接       |
 | -------- | ----------- |
 | Sub-Store 教程 | https://www.notion.so/Sub-Store-6259586994d34c11a4ced5c406264b46 |
-| 机场重命名脚本 | https://www.xxxxxx |
-| 机场重命名脚本 | https://www.xxxxxx |
+| 机场重命名脚本 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/js_for_SubStore/rename.js |
 
 开启 Trojan 指纹验证
 ```ini
