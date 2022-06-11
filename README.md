@@ -1,6 +1,6 @@
 # Texon's LAB 代理软件进阶手册
 
-本项目由 [Texon](https://texon.io/) 订户自行收集、整理、维护。
+本项目由 [Texon‘s LAB](https://texon.io/) 订户自行收集、整理、维护。
 
 
 
