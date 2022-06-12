@@ -237,6 +237,14 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter
 | 小鳄鱼戴眼镜 | https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Quantumult(X)/Icon/Crocodile_with_glasses.png |
 | 小恐龙       | https://github.com/Onlookers-Group/Texonin-LAB-Public/raw/main/Quantumult(X)/Icon/Little_dinosaur.png |
 
+### 图标库
+
+Koolson:
+https://github.com/Koolson/Qure
+
+Orz-3:
+https://github.com/Orz-3/mini
+
 ## Clash
 
 ### Clash Wiki
