@@ -18,6 +18,7 @@
   * [资源解析器](#resource-parser-资源解析器)
   * [规则](#rule-分流规则)
   * [图标](#texon-策略组图标)
+* [Clash](#clash)
 * [感谢](#感谢)
 
 
@@ -202,6 +203,15 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 ## Quantumult X
 
+### Profile 配置
+
+Chaizia：
+https://github.com/chaizia/Profiles/blob/master/MyQuantumultX/QuanX.conf
+
+DivineEngine:
+https://github.com/DivineEngine/Profiles/blob/master/Quantumult/Outbound.conf
+
+
 ### Resource Parser 资源解析器
 
 https://cdn.jsdelivr.net/gh/KOP-XIAO/QuantumultX@master/Scripts/resource-parser.js
@@ -228,7 +238,7 @@ https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter
 ## Clash
 
 ### Clash Wiki
-
+https://github.com/Dreamacro/clash/wiki/configuration
 
 ### Rule 分流规则
 
