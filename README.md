@@ -15,10 +15,12 @@
   * [面板](#panel-面板)
   * [模块](#module-模块)
 * [Quantumult X](#quantumult-x)
+  * [配置](#Profile 配置)
   * [资源解析器](#resource-parser-资源解析器)
   * [规则](#rule-分流规则)
   * [图标](#texon-策略组图标)
 * [Clash](#clash)
+  * [Wiki](#clash-wiki)
 * [感谢](#感谢)
 
 
