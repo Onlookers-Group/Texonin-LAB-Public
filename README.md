@@ -202,6 +202,8 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 | 台湾 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/TikTok/Taiwan.sgmodule |
 
 
+### [SF Symbols](https://developer.apple.com/sf-symbols/) 图标
+https://apps.apple.com/us/app/sf-symbols-browser/id1491161336?uo=4
 
 ## Quantumult X
 
