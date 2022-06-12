@@ -203,7 +203,7 @@ Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com
 
 
 ### [SF Symbols](https://developer.apple.com/sf-symbols/) 图标
-https://apps.apple.com/us/app/sf-symbols-browser/id1491161336?uo=4
+https://apps.apple.com/us/app/sf-symbols-browser/id1491161336
 
 ## Quantumult X
 
