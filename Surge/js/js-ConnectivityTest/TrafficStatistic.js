@@ -1,7 +1,5 @@
 // 来源：@bluman/@qwerzl
 
-let params = getParams($argument)
-
 ;(async () => {
 
 let traffic = (await httpAPI("/v1/traffic"))
@@ -59,8 +57,6 @@ if(net=="en0") {
   $done({
       title:netType,
       content:`${upload} | ${download}`,
-		icon: params.icon,
-		  "icon-color":params.color
     });
 
 })()
