@@ -1,0 +1,8 @@
+#!name=TrafficStatistic
+#!desc=Texonin's LAB
+
+[Panel]
+TrafficStatistics = script-name=TrafficStatistics,update-interval=1
+
+[Script]
+TrafficStatistics = type=generic,timeout=10,script-path= https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/js/js-ConnectivityTest/TrafficStatistic.js
