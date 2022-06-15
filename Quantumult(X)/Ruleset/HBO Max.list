@@ -1,0 +1,6 @@
+# HBO MAX
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbonow.com
+HOST-SUFFIX,hbomax.com
+HOST-SUFFIX,hbomaxcdn.com
+HOST,execute-api.ap-southeast-1.amazonaws.com
