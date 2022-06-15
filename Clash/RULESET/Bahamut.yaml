@@ -1,0 +1,7 @@
+payload:
+    # Bahamut
+    DOMAIN,bahamut.akamaized.net
+    DOMAIN-SUFFIX,bahamut.com.tw
+    DOMAIN-SUFFIX,gamer-cds.cdn.hinet.net
+    DOMAIN-SUFFIX,gamer2-cds.cdn.hinet.net
+    DOMAIN-SUFFIX,gamer.com.tw
