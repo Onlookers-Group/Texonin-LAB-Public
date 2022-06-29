@@ -173,7 +173,7 @@ https://github.com/SukkaW/Surge
 | 配置重载 (骚话版)   | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_baby/aReloadSurge.sgmodule|
 | 网络连通性检查 | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/Connectivity_Test |
 | 网络综合信息   | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/NET_INFO |
-| 流媒体检测    | https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/StreamingChecking.sgmodule |
+| 流媒体检测（简洁版）| https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Surge/sgmodule/sgmodule_normal/StreamingChecking.sgmodule |
 
 #### 机场流量信息及到期时间：
 
