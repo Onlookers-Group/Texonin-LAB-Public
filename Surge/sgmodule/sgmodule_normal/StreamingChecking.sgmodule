@@ -1,0 +1,8 @@
+#!name=StreamingCheck
+#!desc=Clean one by Bluman.
+
+[Panel]
+streaming_check = script-name=streaming_check, title="streamingcheck", content="请刷新", update-interval=86400
+
+[Script]
+streaming_check = type=generic,timeout=5,script-path=https://raw.githubusercontent.com/futurkk/Potato/main/Surge%20for%20myself/JS/StreamingCheck_all.js
