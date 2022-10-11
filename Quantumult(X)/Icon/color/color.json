@@ -1,0 +1,18 @@
+{
+"name":"Texon's Emby Icon", 
+"description":"by k*#", 
+"icons":
+    [
+        {"name":"144.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/144.png"},
+        {"name":"1440.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/1440.png"},
+        {"name":"CadetBlue.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/CadetBlue.png"},
+        {"name":"Crimson.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/Crimson.png"},
+        {"name":"DarkGoldenRod.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/DarkGoldenRod.png"},
+        {"name":"DarkOliveGreen.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/DarkOliveGreen.png"},
+        {"name":"DarkSlateBlue.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/DarkSlateBlue.png"},
+        {"name":"Gainsboro.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/Gainsboro.png"},
+        {"name":"PaleVioletRed.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/PaleVioletRed.png"},
+        {"name":"SlateGray.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/SlateGray.png"},
+        {"name":"Tomato.png", "url":"https://raw.githubusercontent.com/Onlookers-Group/Texonin-LAB-Public/main/Quantumult(X)/Icon/color/Tomato.png"},
+    ]
+}
